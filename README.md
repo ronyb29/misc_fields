@@ -1,4 +1,4 @@
-#Just some fields fo use with peewee
+#Just some fields for use with peewee
 
 
 ###TODO:
